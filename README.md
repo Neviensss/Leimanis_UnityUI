@@ -1,5 +1,5 @@
 # Leimanis_UnityUI
-##Unity parbaudes darba uzdevumi##
+**Unity parbaudes darba uzdevumi##**
 
 - [ ] Izveidot iespeju lietotajam ievadit tēla vardu un vecumu
 - [ ] Iespeju izveleties vismaz 2 tēlus kurus apģērbt
