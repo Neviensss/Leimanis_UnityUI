@@ -48,6 +48,7 @@
   <ItemGroup>
      <Compile Include="Assets\Skripti\CharHolder.cs" />
      <Compile Include="Assets\Skripti\CharInfo.cs" />
+     <Compile Include="Assets\Skripti\DrebjuKustinasana.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
